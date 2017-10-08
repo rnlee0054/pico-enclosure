@@ -30,6 +30,7 @@ Top | Front | Right
 ### Top half (lid)
 
 <img src="https://github.com/rnlee0054/pico-enclosure/raw/master/Images/Fusion360_2017-10-08_03-00-21.png" width="600" />
+
 _Note the lid above is upside-down, displaying the snap fits_
 
 Top | Front | Right
