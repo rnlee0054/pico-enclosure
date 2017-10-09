@@ -6,9 +6,7 @@
 
 Images of the 3D printed enclosure (used Type A Series 1 Pro printer and PLA filament).
 
-Together | Apart | USB cable
----|---|---
-<img src="" width="200" /> | <img src="" width="200"/> | <img src="" width="200"/>
+<img src="https://github.com/rnlee0054/pico-enclosure/raw/master/Images/IMG_20171009_084340.jpg" width="200" /> | <img src="https://github.com/rnlee0054/pico-enclosure/raw/master/Images/IMG_20171009_084913.jpg" width="200"/> | <img src="https://github.com/rnlee0054/pico-enclosure/raw/master/Images/IMG_20171009_083938.jpg" width="200"/>
 
 ## Strategy
 
