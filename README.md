@@ -4,10 +4,16 @@
 
 ## The Enclosure!
 
+Images of the 3D printed enclosure (used Type A Series 1 Pro printer and PLA filament).
+
+Together | Apart | USB cable
+---|---|---
+<img src="" width="200" /> | <img src="" width="200"/> | <img src="" width="200"/>
+
 ## Strategy
 
 This project required searching the web for the [Android Things Pico board dimensions](https://shop.technexion.com/pico-pi-imx6ul.html?SID=r9g3e9gt8kt70r9akj784lqrs6) as well as finding inspiration on sites such as [Grabcad](https://grabcad.com/library).
-Afterwards, I tried to make the design as small as possible while having some tolerances ~1mm just in case.
+The design goal was to make it as small as possible while having some tolerances ~1mm just in case; a USB port was also required.
 The process required learning Fusion 360 and Type A Cura / Type A usage from no prior knowledge.
 Modeling loosely followed the top-down approach, starting with the top view and setting constraints and projections to link views together for easier management.
 
